@@ -12,7 +12,21 @@
 - L9: HTML forms to save and accept user inputs
 - L10: User Authentication and final wrap-up
 - L11: Capstone Project
-  
+
+## 📚 Curriculum Milestones
+
+The following tasks were completed as part of the curriculum:
+- ✅ Write a functional HTTP server  
+- ✅ Implement a todo list using closures  
+- ✅ Add tests for the todo list implementation  
+- ✅ Build a Todo Management CLI application  
+- ✅ Build a Todo Management web application using Express.js  
+- ✅ Render to-dos using EJS templates  
+- ✅ Recreate the todo manager design using HTML & CSS  
+- ✅ Make the Todo web app fully functional  
+- ✅ Deploy the final Todo web app with support for multiple users  
+
+
 ### As part of my capstone project, I built a Node.js application called sports-sch2 (Sports-Schedular).
 
 This application aids in both the creation of sports by administrators and the creation of sports sessions by participants and also admins. Players and administrators can both join in the sports sessions that have been organised.
