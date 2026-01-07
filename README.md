@@ -27,9 +27,9 @@ The following tasks were completed as part of the curriculum:
 - ✅ Deploy the final Todo web app with support for multiple users  
 
 
-### As part of my capstone project, I built a Node.js application called sports-sch2 (Sports-Schedular).
+### Capstone project- sports-sch2 (Sports-Schedular)
 
-This application aids in both the creation of sports by administrators and the creation of sports sessions by participants and also admins. Players and administrators can both join in the sports sessions that have been organised.
+Sports-Schedular is a Node.js application application which aids in both the creation of sports by administrators and the creation of sports sessions by participants and also admins. Players and administrators can both join in the sports sessions that have been organised.
 
 Screenshorts of my application-
 ![Screenshot of a Sports Scheduler](https://drive.google.com/uc?export=view&id=1vG-O8dIImcoqxOBvY47bnnA_KwkYdiFW)
