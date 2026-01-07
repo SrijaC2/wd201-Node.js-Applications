@@ -1,4 +1,4 @@
-## WD201- Server-side programming with Node.js Curriculum
+## WD201- Server-side programming with Node.js
 - L1: Introduction to Node.js
 - L2: Working with NPM
 - L3: Node.js deep dive
